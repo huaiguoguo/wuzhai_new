@@ -1,0 +1,12 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "indent": [2, "tab"],
+    "comma-dangle": ["error", "never"],
+    "array-bracket-spacing": [2, "never"],
+    "space-before-function-paren": ["error", {
+      "anonymous": "ignore",
+      "named": "never"
+    }]
+  }
+}

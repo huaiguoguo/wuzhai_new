@@ -1,0 +1,23 @@
+{
+  "development": {
+    "database": "wuzhai",
+    "username": "root",
+    "password": "111111",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "database": "wuzhai_test",
+    "username": "root",
+    "password": "111111",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "database": "wuzhai",
+    "username": "root",
+    "password": "111111",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
